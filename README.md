@@ -16,11 +16,10 @@ I am a **Data & Analytics Engineer** specializing in transforming raw data chaos
 
 ## 🚀 Featured Infrastructure Projects
 
-*📌 **Note to Recruiters:** I am currently refactoring my repository ecosystem to showcase production-grade, modular engineering pipelines over academic notebooks. Check out my pinned repositories below for live code implementations.*
 
 ### [Featured Pipeline 1: Automated Sentiment Ingestion Engine]
 * **The Problem:** Businesses struggle to monitor customer sentiment trends dynamically across unstructured text channels.
-* **The Solution:** Built an end-to-end automated ELT pipeline that ingests live text data via public APIs, cleans and processes the payload using Python text pipelines, and orchestrates daily loads into a centralized cloud data warehouse.
+* **The Solution:** Building an end-to-end automated ELT pipeline that ingests live text data via public APIs, cleans and processes the payload using Python text pipelines, and orchestrates daily loads into a centralized cloud data warehouse.
 * **Stack:** Python, Mage.ai, Google BigQuery, PostgreSQL, dbt Core.
 
 ---
