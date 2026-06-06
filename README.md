@@ -34,6 +34,6 @@ I am a **Data & Analytics Engineer** specializing in transforming raw data chaos
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** [://linkedin.com](www.linkedin.com/in/caleb-balogun)
+* **LinkedIn:** www.linkedin.com/in/caleb-balogun
 * **Email:** calebadedamola@gmail.com
 
